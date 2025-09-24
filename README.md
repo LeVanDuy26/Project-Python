@@ -19,3 +19,7 @@ Nhà phân tích dữ liệu (Data Analyst) được giao nhiệm vụ nghiên c
 ### Yêu cầu nghiên cứu
 
 Thông qua việc áp dụng **chiến lược giải quyết vấn đề (Problem Solving Strategy)**, báo cáo cần cung cấp những **insight có giá trị** về hành vi khách hàng, từ đó đưa ra **giải pháp thực tiễn và phù hợp** cho hoạt động phát triển sản phẩm của công ty.
+
+---
+## Kiến trúc dự án
+![alt text](img/Architecture.png)
